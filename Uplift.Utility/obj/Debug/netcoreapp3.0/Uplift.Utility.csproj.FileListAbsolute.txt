@@ -1,0 +1,8 @@
+C:\Users\Matthew Hudnall\Desktop\Code\Uplift\Uplift.Utility\bin\Debug\netcoreapp3.0\Uplift.Utility.deps.json
+C:\Users\Matthew Hudnall\Desktop\Code\Uplift\Uplift.Utility\bin\Debug\netcoreapp3.0\Uplift.Utility.dll
+C:\Users\Matthew Hudnall\Desktop\Code\Uplift\Uplift.Utility\bin\Debug\netcoreapp3.0\Uplift.Utility.pdb
+C:\Users\Matthew Hudnall\Desktop\Code\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.0\Uplift.Utility.AssemblyInfoInputs.cache
+C:\Users\Matthew Hudnall\Desktop\Code\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.0\Uplift.Utility.AssemblyInfo.cs
+C:\Users\Matthew Hudnall\Desktop\Code\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.0\Uplift.Utility.dll
+C:\Users\Matthew Hudnall\Desktop\Code\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.0\Uplift.Utility.pdb
+C:\Users\Matthew Hudnall\Desktop\Code\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.0\Uplift.Utility.csprojAssemblyReference.cache

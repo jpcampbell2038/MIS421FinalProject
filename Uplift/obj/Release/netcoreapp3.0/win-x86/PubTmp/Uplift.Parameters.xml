@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Uplift20190917024336" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Matthew\ Hudnall\\Desktop\\Code\\Uplift\\Uplift\\obj\\Release\\netcoreapp3\.0\\win-x86\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
