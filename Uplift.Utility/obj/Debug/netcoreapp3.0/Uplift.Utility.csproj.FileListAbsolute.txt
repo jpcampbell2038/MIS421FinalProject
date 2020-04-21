@@ -6,3 +6,11 @@ C:\Users\Matthew Hudnall\Desktop\Code\Uplift\Uplift.Utility\obj\Debug\netcoreapp
 C:\Users\Matthew Hudnall\Desktop\Code\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.0\Uplift.Utility.dll
 C:\Users\Matthew Hudnall\Desktop\Code\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.0\Uplift.Utility.pdb
 C:\Users\Matthew Hudnall\Desktop\Code\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.0\Uplift.Utility.csprojAssemblyReference.cache
+C:\Users\james\Desktop\Spring2020\MIS421\FinalProject\Uplift.Utility\bin\Debug\netcoreapp3.0\Uplift.Utility.deps.json
+C:\Users\james\Desktop\Spring2020\MIS421\FinalProject\Uplift.Utility\bin\Debug\netcoreapp3.0\Uplift.Utility.dll
+C:\Users\james\Desktop\Spring2020\MIS421\FinalProject\Uplift.Utility\bin\Debug\netcoreapp3.0\Uplift.Utility.pdb
+C:\Users\james\Desktop\Spring2020\MIS421\FinalProject\Uplift.Utility\obj\Debug\netcoreapp3.0\Uplift.Utility.csprojAssemblyReference.cache
+C:\Users\james\Desktop\Spring2020\MIS421\FinalProject\Uplift.Utility\obj\Debug\netcoreapp3.0\Uplift.Utility.AssemblyInfoInputs.cache
+C:\Users\james\Desktop\Spring2020\MIS421\FinalProject\Uplift.Utility\obj\Debug\netcoreapp3.0\Uplift.Utility.AssemblyInfo.cs
+C:\Users\james\Desktop\Spring2020\MIS421\FinalProject\Uplift.Utility\obj\Debug\netcoreapp3.0\Uplift.Utility.dll
+C:\Users\james\Desktop\Spring2020\MIS421\FinalProject\Uplift.Utility\obj\Debug\netcoreapp3.0\Uplift.Utility.pdb

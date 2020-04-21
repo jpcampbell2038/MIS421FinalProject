@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\james\\Desktop\\Spring 2020\\MIS 421\\FinalProject\\Uplift.Models\\Uplift.Models.csproj": {}
+    "C:\\Users\\james\\Desktop\\Spring2020\\MIS421\\FinalProject\\Uplift.Models\\Uplift.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\james\\Desktop\\Spring 2020\\MIS 421\\FinalProject\\Uplift.Models\\Uplift.Models.csproj": {
+    "C:\\Users\\james\\Desktop\\Spring2020\\MIS421\\FinalProject\\Uplift.Models\\Uplift.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\james\\Desktop\\Spring 2020\\MIS 421\\FinalProject\\Uplift.Models\\Uplift.Models.csproj",
+        "projectUniqueName": "C:\\Users\\james\\Desktop\\Spring2020\\MIS421\\FinalProject\\Uplift.Models\\Uplift.Models.csproj",
         "projectName": "Uplift.Models",
-        "projectPath": "C:\\Users\\james\\Desktop\\Spring 2020\\MIS 421\\FinalProject\\Uplift.Models\\Uplift.Models.csproj",
+        "projectPath": "C:\\Users\\james\\Desktop\\Spring2020\\MIS421\\FinalProject\\Uplift.Models\\Uplift.Models.csproj",
         "packagesPath": "C:\\Users\\james\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\james\\Desktop\\Spring 2020\\MIS 421\\FinalProject\\Uplift.Models\\obj\\",
+        "outputPath": "C:\\Users\\james\\Desktop\\Spring2020\\MIS421\\FinalProject\\Uplift.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

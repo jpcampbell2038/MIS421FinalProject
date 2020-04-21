@@ -9916,11 +9916,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\james\\Desktop\\Spring 2020\\MIS 421\\FinalProject\\Uplift\\Uplift.csproj",
+      "projectUniqueName": "C:\\Users\\james\\Desktop\\Spring2020\\MIS421\\FinalProject\\Uplift\\Uplift.csproj",
       "projectName": "Uplift",
-      "projectPath": "C:\\Users\\james\\Desktop\\Spring 2020\\MIS 421\\FinalProject\\Uplift\\Uplift.csproj",
+      "projectPath": "C:\\Users\\james\\Desktop\\Spring2020\\MIS421\\FinalProject\\Uplift\\Uplift.csproj",
       "packagesPath": "C:\\Users\\james\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\james\\Desktop\\Spring 2020\\MIS 421\\FinalProject\\Uplift\\obj\\",
+      "outputPath": "C:\\Users\\james\\Desktop\\Spring2020\\MIS421\\FinalProject\\Uplift\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9939,8 +9939,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\james\\Desktop\\Spring 2020\\MIS 421\\FinalProject\\Uplift.DataAccess\\Uplift.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\james\\Desktop\\Spring 2020\\MIS 421\\FinalProject\\Uplift.DataAccess\\Uplift.DataAccess.csproj"
+            "C:\\Users\\james\\Desktop\\Spring2020\\MIS421\\FinalProject\\Uplift.DataAccess\\Uplift.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\james\\Desktop\\Spring2020\\MIS421\\FinalProject\\Uplift.DataAccess\\Uplift.DataAccess.csproj"
             }
           }
         }
